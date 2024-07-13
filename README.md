@@ -17,7 +17,12 @@ Interest about IT started when I was on my second child's maternity leave - afte
 
 
 
-**Marilyn**
+**Marilyn**:scorpion:
+
+I am from Tallinn, Estonia. Daily I am working as specialist in a university but during my leasure time I love to read, do sports and go to my cottage house. 
+Previously I have had no experience in IT but for some reason I have always been interested in learning it. So when I randomly saw the ad for this course, I took it as a sign and submitted my application. And here we are :). 
+However, witout prior experience it has been hard to follow along and due to due intensive study mode, I struggle with finding time for practicing coding on days when we do not have lectures. But still I somehow really like it and hopefully some day I will the "ahaa"-moment aka after long period of confusion, suddenly everthing makes sense. 
+In terms of programme language - I still prefer Python over Java, but slowly the latter has started to grow on me. 
 
 
 **Astrid**:taurus:
