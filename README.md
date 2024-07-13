@@ -17,7 +17,7 @@ Interest about IT started when I was on my second child's maternity leave - afte
 
 
 
-**Marilyn**:scorpion:
+**Marilyn**:scorpio:
 
 I am from Tallinn, Estonia. Daily I am working as specialist in a university but during my leasure time I love to read, do sports and go to my cottage house. 
 Previously I have had no experience in IT but for some reason I have always been interested in learning it. So when I randomly saw the ad for this course, I took it as a sign and submitted my application. And here we are :). 
